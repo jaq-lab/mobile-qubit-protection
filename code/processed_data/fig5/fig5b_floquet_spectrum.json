@@ -1,0 +1,10 @@
+{
+  "saved_at": "2026-01-25T06:44:38.917608",
+  "figure_number": "fig5",
+  "description": "Floquet spectrum data for Figure 5b",
+  "n_datasets": 40,
+  "data_shape": [
+    40,
+    240
+  ]
+}

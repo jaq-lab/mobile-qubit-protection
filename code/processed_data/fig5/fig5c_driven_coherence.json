@@ -1,0 +1,14 @@
+{
+  "saved_at": "2026-01-29T14:06:40.866525",
+  "figure_number": "fig5",
+  "description": "Driven spin coherence data for Figure 5c",
+  "high_field_points": 74,
+  "low_field_points": 4,
+  "cv_stops": [
+    0,
+    5,
+    10,
+    15,
+    19
+  ]
+}

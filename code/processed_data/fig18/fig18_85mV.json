@@ -1,0 +1,17 @@
+{
+  "saved_at": "2026-01-21T12:16:29.196571",
+  "figure_number": "fig18",
+  "field": "high",
+  "voltage": "85mV",
+  "description": "Two-point correlation parameters for high field (85mV)",
+  "shuttling_distances": [
+    10.800000000000011,
+    39.342857166000016,
+    67.885714278,
+    96.42857144400001,
+    124.971428556,
+    153.514285722,
+    182.057142834,
+    210.6
+  ]
+}
