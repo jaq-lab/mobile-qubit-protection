@@ -1,6 +1,8 @@
 # Data Processing Notebooks
 
-This directory contains notebooks that process raw experimental data and convert it into processed data files for figure generation.
+**This directory ONLY processes data - it does NOT generate plots.**
+
+This directory contains notebooks that process raw experimental data and convert it into processed data files. All plots for the paper are generated in the `get_plots/` folder, which loads data from the `processed_data/` folder.
 
 ## Purpose
 
@@ -101,6 +103,8 @@ Each processed data file includes:
    - Process and analyze
    - Save results to `/processed_data/`
 4. Verify output files in the corresponding `/processed_data/figX/` directory
+
+**Note:** After processing data, generate plots by running the appropriate notebook in the `get_plots/` folder, which loads from `/processed_data/`.
 
 ### Common Functions
 

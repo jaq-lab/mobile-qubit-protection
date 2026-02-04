@@ -23,6 +23,8 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+
+code/data/
 # Virtual environments
 venv/
 env/
@@ -74,4 +76,5 @@ Thumbs.db
 *.temp
 *.bak
 *~
+
 
